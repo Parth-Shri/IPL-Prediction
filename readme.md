@@ -1,4 +1,4 @@
-# IPL Win Predictor
+# IPL Predictor
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Predictor-brightgreen)](https://ipl-match-predictor.streamlit.app/)
 [![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-IPL%20Win%20Predictor-green)](https://github.com/rajatrawal/ipl-win-predictor)
@@ -65,7 +65,7 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory:
 
    ```shell
-   cd ipl-win-predictor
+   cd IPL-Prediction
    ```
 
 3. Install the required Python libraries:
